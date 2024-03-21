@@ -1,0 +1,1 @@
+Project ini menerangkan tentang cara Objek dan Array Destructuring
